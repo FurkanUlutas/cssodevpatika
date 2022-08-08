@@ -1,1 +1,2 @@
 # cssodevpatika
+commit deneme
