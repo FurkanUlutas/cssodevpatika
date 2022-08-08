@@ -1,2 +1,2 @@
 # cssodevpatika
-commit deneme
+www.patika.dev
